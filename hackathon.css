@@ -1,0 +1,20 @@
+.temp7{
+    padding: 20px;
+    margin-right: 20px;
+    margin-left: 0;
+    height: 300px;
+    width: 275px;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+/* .namdiv{
+    width: 200px;
+    margin: 0;
+    background-color: black;
+    color: white;
+} */
+
+img{
+    height: 90px;
+    width: 10px;
+}
